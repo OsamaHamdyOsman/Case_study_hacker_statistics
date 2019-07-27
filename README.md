@@ -13,5 +13,13 @@ With all of that in mind you bet with your friend that's you will reach 60 steps
 **_What is the chance that you will win this bet?_**
 
 ## How to solve?
-The process will be simulated thousands of times and determine in what fraction of the simulations that you will reach 60 steps.
-This is a form of hacker statistics. 
+The process will be simulated thousands of times and determine in what fraction of the simulations that you will reach 60 steps (This is a form of hacker statistics).
+To do this we will go through the following steps:
+* Step 1: _**Random Generators to simulate the dice**_
+* Step 2 : _**Determine your next move**_
+* Step 3: _**Simulate a Random Walk**_
+* Step 4: _**Visualize the walk**_
+* Step 5: _**The distribution of random walks**_
+* Step 6: _**Implement clumsiness**_
+* Step 7: _**Plot the distribution**_
+* Step 8: _**Calculate the odds**_
